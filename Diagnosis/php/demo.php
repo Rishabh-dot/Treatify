@@ -56,7 +56,7 @@ class Demo
             exit();
 
         $this->diagnosisClient = new DiagnosisClient($token, $this->config['healthServiceUrl'], 'en-gb');
-        print('<html><body>');
+        print('<!DOCTYPE html> <html lang="zxx"><body>');
         print('<h3>Body locations</h3>');
         $bodyLocations = $this->diagnosisClient->loadBodyLocations();
         if (!isset($bodyLocations))
@@ -120,7 +120,7 @@ class Demo
         
         // get issue info
         reset($diagnosis);
-        while (list($key, $val) = each($diagnosis)) {
+        foreach ($diagnosis as $key => $val) {
             $this->loadIssueInfo($val['Issue']['ID']);
         }        
         print('</body></html>');

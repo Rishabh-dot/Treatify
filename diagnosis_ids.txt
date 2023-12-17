@@ -1,0 +1,90 @@
+Body locations
+ID	Name
+16	Abdomen, pelvis & buttocks
+7	Arms & shoulder
+15	Chest & back
+6	Head, throat & neck
+10	Legs
+17	Skin, joints & general
+Body Subocations for Abdomen, pelvis & buttocks(16)
+ID	Name
+36	Abdomen
+40	Buttocks & rectum
+38	Genitals & groin
+39	Hips & hip joint
+37	Pelvis
+Symptoms in body sublocation Hips & hip joint(39)
+ID	Name
+103	Pain radiating to the leg
+118	Physical inactivity
+155	Pain in the bones
+156	Bone fracture
+195	Limited mobility of the leg
+196	Hip pain
+993	Hip deformity
+1000	Limited mobility of the hip
+1005	Difficulty with gait
+1010	Leg pain
+Calculated diagnosis for Hip deformity(993)
+ID	Name
+536	Deformity of the hip joint (90%)
+Specialisations -> General practice(15)	Orthopedics(31)	
+
+269	Hip dysplasia (72%)
+Specialisations -> General practice(15)	Orthopedics(31)	
+
+132	Femoral neck fracture (54.0000038%)
+Specialisations -> General practice(15)	Orthopedics(31)	Surgery(39)	
+
+686	Accident-related bone fracture of hip (36%)
+Specialisations -> General practice(15)	Orthopedics(31)	
+Calculated specialisations for Hip deformity(993)
+ID	Name
+15	General practice (90%)
+31	Orthopedics (90%)
+39	Surgery (19.2857151%)
+Proposed symptoms for selected Hip deformity(993)
+ID	Name
+156	Bone fracture
+196	Hip pain
+197	Immobilization
+195	Limited mobility of the leg
+27	Joint pain
+198	Joint instability
+Red flag text for selected Hip deformity(993)
+Info for Deformity of the hip joint
+Name:	Deformity of the hip joint
+Professional Name:	Coxa vara and valga
+Synonyms:	
+Short Description:	Coxa vara (and its analogue coxa valga) is a deformity of the hip joint. It can be present since birth (congenital), develop during the process of growth (developmental) or caused by damages or diseases (acquired). An accessory appliance such as brace can help to adjust the position of hip joint. For severe cases, a surgery to place the femoral neck and shaft to a proper position can be necessary.
+Description:	Coxa vara is a kind of deformity in the hip joint. The normal angle between the neck and the shaft of a femur is about 120-135 degrees. And coxa vara is a condition when the angle is less than 120 degrees.
+Medical Condition:	The cause of coxa vara can be associated with a different growing rate between the neck and the shaft of a femur, an abnormal development of femur, or some damages or diseases that can affect the normal structure of bones. If the coxa vara is present at birth, it is called congenital coxa vara. Coxa vara can also appear after birth. Especially during the period of fast growing such as early childhood, which is called developmental coxa vara. Besides, acquired coxa vara is caused by some diseases or damages, which can break the structure of a femoral bone, for example, a femoral fracture, rickets, osteomyelitis or any disease that can affect normal bony structure. People with coxa vara may have a problem of inguinal pain, limping, different length of legs and limitation of movements.
+Treatment Description:	The treatment of coxa vara is to adjust the angle between the neck and the shaft of a femur into the normal range. If the coxa vara is mild, it can be improved by an accessory appliance like an orthesis. For several cases, only surgery is able to adjust the deformity. However, if the coxa vara is caused by an underlying problem, the specific problem should be treated at the same time as well.
+Possible symptoms:	Back pain,Hip pain,Limited mobility of the leg,Lower-back pain,Hip deformity,Limited mobility of the hip
+Info for Hip dysplasia
+Name:	Hip dysplasia
+Professional Name:	Dysplasia of the hip
+Synonyms:	
+Short Description:	Hip dysplasia describes a disorder of the ossification of the hip joint in new-born babies. It is one of the most common disorders of bone structure development, affects more girls than boys and can be treated by various measures, if recognized early. Therefore, an ultrasound examination of the hip will be conducted for all new-born.
+Description:	When a hip socket does not completely cover the ball part of the top thighbone, it is medically known as a hip dysplasia. The result is that the hip joint becomes completely or partially dislocated. Many people with the condition are born with it. If a hip dysplasia is identified in early childhood, the condition can be fixed with a soft brace. That is why doctors check babies for any indication of hip dysplasia shortly after birth and during well-child care visits.
+Medical Condition:	There are various causes for a hip dysplasia, like hereditary or hormonal factors that influence the elasticity of joint capsules. If the child is lying in breech position inside the womb, it can result in an increased mobility inside the joint capsule. This can lead to a malposition of the femoral head in the socket, and eventually to premature arthrosis.
+Treatment Description:	For every new-born, the position of the femoral head in the socket should be evaluated with an ultrasound examination. Any abnormalities can be treated with relatively few and hardly impairing measures, that need some time and have to be consistently applied. Smaller abnormalities can be treated by using broader diapers; in case of a more severe abnormality spreader pants can be considered. Regular follow-up examinations evaluate the success of the treatment and can suggest further measures, should the result not be as expected. 
+Possible symptoms:	Limited mobility of the leg,Hip pain,Knee pain,Back pain,Hip deformity,Limited mobility of the hip,Joint pain
+Info for Femoral neck fracture
+Name:	Femoral neck fracture
+Professional Name:	Fracture of the femoral neck
+Synonyms:	
+Short Description:	Falling and landing on the hips or buttocks can lead to a fracture of the femur in the area where the head of the femur meets the hip joint, resulting in what is called a fracture of the neck of the femur.
+Description:	The neck of the femur is located where the femur meets the hip joint. A bone fracture in this area is often the result of an elderly person tripping and falling onto the hip or buttocks. Blood vessels that supply the hip can also become injured in such a fall, which can lead to the death of bone substance.
+Medical Condition:	Elderly people are the most likely to be affected by osteoporosis, proning bones to fractures. Among young people the cause of a fracture in the neck of the femur is usually a highspeed accident (such as car accident). The patient often suffers from extreme pain in the groin and hip regions, and the affected leg can no longer move or bear weight. The affected leg is typically turned outward and appears shortened in comparison to a healthy leg.
+Treatment Description:	To prevent the death of bone material, an operation should be carried out as soon as possible. Depending on the location of the fracture, younger patients usually have a screw and plate installed, whereas older patients usually have a prosthetic, or artificial, hip installed.
+Possible symptoms:	Hip pain,Limited mobility of the leg,Bone fracture,Hip deformity,Limited mobility of the hip
+Info for Accident-related bone fracture of hip
+Name:	Accident-related bone fracture of hip
+Professional Name:	Bone trauma of hip
+Synonyms:	Accident-related bone fracture
+Short Description:	Accident-related bone fracture describes a fracture, which happens with a sudden accident. An accident-related bone fracture could occur in every part where a body has bones. Often it requires an emergency medical treatment or surgery. Later even a rehabilitation can be necessary.
+Description:	Accident-related bone fractures can be a disruption in any part of human bones. The disruption results from accidents. The form of the fracture also depends on how the bones are broken.
+Medical Condition:	Accident-related bone fractures are a common consequence of car crashes or other unexpected accidents, which cause extreme force to be exerted on the bones. Serious broken bones injuries include pelvic fractures, fractures to the sternum or ribs, spine and skull fractures. A fracture of the forearm (Radius) is most frequently. Other common types of broken bone injuries include fractures of the ankle, femur, collarbone, and hand. Forms of fractures vary; in general they include 1) buckle or greenstick fracture (an incomplete fracture with intact periosteum on one side, which only occurs in children), 2) hairline/stress fracture, 3) rotation fracture, 4) avulsion fracture, 5) oblique fracture, 6) comminuted fracture and 7) compound fracture.
+Treatment Description:	Treatment of accident-related fractures often requires surgery as the injuries often include multiple fractures or crush injuries and a high blood loss. Due to this, reconstructive surgery may be required. Most important is reconstruction of length, axis and rotation of the bone. Depending on what bones were broken, recovery could take a substantial amount of time, and rehabilitation may also be needed. Besides surgery, medication such as antibiotics (in open fractures) and analgesics can be considered for relieving pain or prevent bacterial infections.
+Possible symptoms:	Blue spot on skin,Bone fracture,Hip deformity,Hip pain,Immobilization,Joint instability,Joint pain,Joint swelling,Limited mobility of the hip,Pain in the bones,Difficulty with gait
